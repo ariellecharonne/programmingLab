@@ -1,0 +1,76 @@
+# esercizio 1 
+
+def summa (lista)
+summa = 0
+for x in lista :
+    summa = summa + x
+    return summa 
+
+
+def palindromo (parola)
+    if p == p[::-1]:
+        return true 
+    else :
+        return false
+    
+
+        def cambia ("A","i", "j")
+        temp = [Ai]
+        [Ai] = [Aj]
+        [Aj] = temp
+     return A
+        
+        def comune( l1, l2):
+        for i in l1 :
+            if i in l2 :
+                return TRUE
+            else : 
+                returnFALSE
+
+
+                def numeri interi [0,9]
+                parole = ["zero" , "uno" "due", "tre","quatro", "cinque" ,"sei","sete","otto","nove"]
+                risultato []
+                for n in lista :
+                    risultato.appened(parole[])
+                    returnrisultato
+
+                    # esercizio 2
+
+                    def conta_parole(lista):
+                        dizionario = {}
+
+                        for parola in lista :
+                            if parola in dizionario :
+                                dizionario[parola] += 1
+                            else:
+                                dizionario[parole] = 1
+
+                                return dizionario
+
+                                def somma_vendite(file):
+                                    totale = 0
+
+                                    with open (file,r) as f:
+                                        for riga in f:
+                                            total = total + int(riga.stip)
+                                            return total
+
+
+    def rimuovi_duplicati(file):                                
+        righe_uniche = set()
+
+        with open(file,"r") as f :
+            for riga in f :
+                righe_uniche.add(rige.strip())
+
+                with open("unique.txt,"w") as f:
+                    for riga in righe_uniche:
+                        f.write(riga+"\n")
+                        
+            
+                        
+
+
+
+
