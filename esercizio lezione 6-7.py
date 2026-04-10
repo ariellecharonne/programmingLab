@@ -40,9 +40,11 @@ def get_data() :
 
 
 #esercizio 4
-
+from datetime import datetime
+oggi = datetime.now()
 anno = int (input("inserire il tuo anno di nascita :"))
 mese = int(input("inserire il tuo mese di nascita :"))
+giorno = int (input("giorno":))
 anno_attuale = 2026 
 mese_attuale = 3
 eta =mese_attuale - anno  
