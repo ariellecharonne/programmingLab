@@ -61,4 +61,3 @@ class CSVTimeSeriesFile:
                                         return variazioni
 
 
-
