@@ -59,5 +59,3 @@ class CSVTimeSeriesFile:
                                         chiave = anno1 + "-" + anno2 
                                         variazioni[chiave] = differenza 
                                         return variazioni
-
-
