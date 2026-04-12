@@ -12,7 +12,6 @@ print("cubo",cubo)
 x=int(input("inserire un numero intero"))
 if x%2 == 0:
  print("numeri pari")
-else:
  print("numero dispari") 
 
 # esercizio 4(comtare quanto di volta una lettra ....)
